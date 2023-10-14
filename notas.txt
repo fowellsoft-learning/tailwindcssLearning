@@ -1,0 +1,8 @@
+Plugins necesario en Visual Studio Code
+- Auto Rename Tag
+- Better Comments
+- CSS Peek
+- IntelliSense for CSS class
+- Live Server
+- Material Icon Theme
+- Tailwind CSS IntelliSense
